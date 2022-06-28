@@ -1,3 +1,3 @@
-https://aka-eloquence.github.io/Dice-Challenge/
+https://eloquence98.github.io/Dice-Challenge/
 # Dice-Challenge
 Ludo Dice
